@@ -1,2 +1,2 @@
 #Yummy Recipe
-this is simple that uses flask
+this is simple that uses App flask
